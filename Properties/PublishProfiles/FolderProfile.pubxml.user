@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\PROYECTO MULTIACTIVA\VisualStudioSolution\REPOSITORIO\REPORTES</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Coomuce.GestorReportes.dll">
+      <publishTime>04/21/2018 10:15:52</publishTime>
+    </File>
+    <File Include="bin/Coomuce.GestorReportes.pdb">
+      <publishTime>04/21/2018 10:15:52</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>11/03/2015 17:13:42</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>11/03/2015 17:13:42</publishTime>
+    </File>
+    <File Include="DataSource/dtsInformes.xsc">
+      <publishTime>04/14/2018 16:34:02</publishTime>
+    </File>
+    <File Include="DataSource/dtsInformes.xss">
+      <publishTime>04/14/2018 16:34:02</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>08/09/2017 21:33:36</publishTime>
+    </File>
+    <File Include="Entidad/Coomuce.edmx.diagram">
+      <publishTime>10/19/2017 22:12:41</publishTime>
+    </File>
+    <File Include="Lanzador.aspx">
+      <publishTime>08/16/2017 23:12:08</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>08/16/2017 22:34:18</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/04/2018 17:00:50</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

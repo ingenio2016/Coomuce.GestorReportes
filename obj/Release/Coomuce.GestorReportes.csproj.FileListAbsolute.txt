@@ -1,0 +1,34 @@
+D:\Edgar\Proyectos\Coomuce\Solution\Coomuce.GestorReportes\bin\Coomuce.GestorReportes.dll.config
+D:\Edgar\Proyectos\Coomuce\Solution\Coomuce.GestorReportes\bin\Coomuce.GestorReportes.dll
+D:\Edgar\Proyectos\Coomuce\Solution\Coomuce.GestorReportes\bin\Coomuce.GestorReportes.pdb
+D:\Edgar\Proyectos\Coomuce\Solution\Coomuce.GestorReportes\obj\Release\Coomuce.GestorReportes.csprojResolveAssemblyReference.cache
+D:\Edgar\Proyectos\Coomuce\Solution\Coomuce.GestorReportes\obj\Release\Coomuce.GestorReportes.dll
+D:\Edgar\Proyectos\Coomuce\Solution\Coomuce.GestorReportes\obj\Release\Coomuce.GestorReportes.pdb
+D:\Edgar\Proyectos\Coomuce\Solution\Coomuce.GestorReportes\bin\EntityFramework.dll
+D:\Edgar\Proyectos\Coomuce\Solution\Coomuce.GestorReportes\bin\EntityFramework.SqlServer.dll
+D:\Edgar\Proyectos\Coomuce\Solution\Coomuce.GestorReportes\bin\EntityFramework.xml
+D:\Edgar\Proyectos\Coomuce\Solution\Coomuce.GestorReportes\bin\EntityFramework.SqlServer.xml
+D:\Edgar\Proyectos\Coomuce\Solution\Coomuce.GestorReportes\obj\Release\RdlCompile.cache
+D:\Edgar\Proyectos\Coomuce\Solution\Coomuce.GestorReportes\obj\Release\RdlCompile.compiled
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\bin\Coomuce.GestorReportes.dll.config
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\bin\Coomuce.GestorReportes.dll
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\bin\Coomuce.GestorReportes.pdb
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\bin\EntityFramework.dll
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\bin\EntityFramework.SqlServer.dll
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\bin\EntityFramework.xml
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\bin\EntityFramework.SqlServer.xml
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\obj\Release\Coomuce.GestorReportes.csprojResolveAssemblyReference.cache
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\obj\Release\Coomuce.GestorReportes.csproj.CoreCompileInputs.cache
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\obj\Release\Coomuce.GestorReportes.dll
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\obj\Release\Coomuce.GestorReportes.pdb
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\RESPALDO\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\bin\Coomuce.GestorReportes.dll.config
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\RESPALDO\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\bin\Coomuce.GestorReportes.dll
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\RESPALDO\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\bin\Coomuce.GestorReportes.pdb
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\RESPALDO\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\bin\EntityFramework.dll
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\RESPALDO\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\bin\EntityFramework.SqlServer.dll
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\RESPALDO\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\bin\EntityFramework.xml
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\RESPALDO\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\bin\EntityFramework.SqlServer.xml
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\RESPALDO\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\obj\Release\Coomuce.GestorReportes.csprojResolveAssemblyReference.cache
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\RESPALDO\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\obj\Release\Coomuce.GestorReportes.csproj.CoreCompileInputs.cache
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\RESPALDO\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\obj\Release\Coomuce.GestorReportes.dll
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\RESPALDO\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\obj\Release\Coomuce.GestorReportes.pdb

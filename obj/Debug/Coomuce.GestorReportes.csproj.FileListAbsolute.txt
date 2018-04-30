@@ -1,0 +1,34 @@
+D:\Edgar\Proyectos\Coomuce\Solution\Coomuce.GestorReportes\bin\Coomuce.GestorReportes.dll.config
+D:\Edgar\Proyectos\Coomuce\Solution\Coomuce.GestorReportes\bin\Coomuce.GestorReportes.dll
+D:\Edgar\Proyectos\Coomuce\Solution\Coomuce.GestorReportes\bin\Coomuce.GestorReportes.pdb
+D:\Edgar\Proyectos\Coomuce\Solution\Coomuce.GestorReportes\obj\Debug\Coomuce.GestorReportes.csprojResolveAssemblyReference.cache
+D:\Edgar\Proyectos\Coomuce\Solution\Coomuce.GestorReportes\obj\Debug\Coomuce.GestorReportes.dll
+D:\Edgar\Proyectos\Coomuce\Solution\Coomuce.GestorReportes\obj\Debug\Coomuce.GestorReportes.pdb
+D:\Edgar\Proyectos\Coomuce\Solution\Coomuce.GestorReportes\bin\EntityFramework.dll
+D:\Edgar\Proyectos\Coomuce\Solution\Coomuce.GestorReportes\bin\EntityFramework.SqlServer.dll
+D:\Edgar\Proyectos\Coomuce\Solution\Coomuce.GestorReportes\bin\EntityFramework.xml
+D:\Edgar\Proyectos\Coomuce\Solution\Coomuce.GestorReportes\bin\EntityFramework.SqlServer.xml
+D:\Edgar\Proyectos\Coomuce\Solution\Coomuce.GestorReportes\obj\Debug\RdlCompile.cache
+D:\Edgar\Proyectos\Coomuce\Solution\Coomuce.GestorReportes\obj\Debug\RdlCompile.compiled
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\bin\Coomuce.GestorReportes.dll.config
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\bin\Coomuce.GestorReportes.dll
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\bin\Coomuce.GestorReportes.pdb
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\bin\EntityFramework.dll
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\bin\EntityFramework.SqlServer.dll
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\bin\EntityFramework.xml
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\bin\EntityFramework.SqlServer.xml
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\obj\Debug\Coomuce.GestorReportes.csprojResolveAssemblyReference.cache
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\obj\Debug\Coomuce.GestorReportes.dll
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\obj\Debug\Coomuce.GestorReportes.pdb
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\obj\Debug\Coomuce.GestorReportes.csproj.CoreCompileInputs.cache
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\RESPALDO\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\bin\Coomuce.GestorReportes.dll.config
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\RESPALDO\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\bin\Coomuce.GestorReportes.dll
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\RESPALDO\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\bin\Coomuce.GestorReportes.pdb
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\RESPALDO\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\bin\EntityFramework.dll
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\RESPALDO\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\bin\EntityFramework.SqlServer.dll
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\RESPALDO\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\bin\EntityFramework.xml
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\RESPALDO\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\bin\EntityFramework.SqlServer.xml
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\RESPALDO\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\obj\Debug\Coomuce.GestorReportes.csprojResolveAssemblyReference.cache
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\RESPALDO\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\obj\Debug\Coomuce.GestorReportes.csproj.CoreCompileInputs.cache
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\RESPALDO\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\obj\Debug\Coomuce.GestorReportes.dll
+E:\PROYECTO MULTIACTIVA\VisualStudioSolution\RESPALDO\Coomuce\Coomuce\Solution\Coomuce.GestorReportes\obj\Debug\Coomuce.GestorReportes.pdb
