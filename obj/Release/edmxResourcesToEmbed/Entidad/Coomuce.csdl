@@ -822,6 +822,8 @@
     <NavigationProperty Name="InfoIfppir" Relationship="CoomuceModel.FK_InfoIfppir_FuanAfiliado" FromRole="FuanAfiliado" ToRole="InfoIfppir" />
     <NavigationProperty Name="ListaAsistenciaGeneral" Relationship="CoomuceModel.FK_ListaAsistenciaGeneral_FuanAfiliado" FromRole="FuanAfiliado" ToRole="ListaAsistenciaGeneral" />
     <NavigationProperty Name="Purisu" Relationship="CoomuceModel.FK_Purisu_FuanAfiliado" FromRole="FuanAfiliado" ToRole="Purisu" />
+    <Property Name="cabezafamilia" Type="Int32" />
+    <Property Name="grupofamiliar" Type="Int32" />
   </EntityType>
   <EntityType Name="FuanAnexos">
     <Key>

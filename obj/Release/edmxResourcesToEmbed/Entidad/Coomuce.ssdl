@@ -228,6 +228,8 @@
     <Property Name="fechaNacimientoConyugueFuanAfiliado" Type="date" />
     <Property Name="upcFuanAfiliado" Type="money" />
     <Property Name="firmaFuanAfiliado" Type="varchar" MaxLength="100" />
+    <Property Name="cabezafamilia" Type="int" />
+    <Property Name="grupofamiliar" Type="int" />
   </EntityType>
   <EntityType Name="FuanAnexos">
     <Key>

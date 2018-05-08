@@ -204,6 +204,8 @@
     <EntitySetMapping Name="FuanAfiliado">
       <EntityTypeMapping TypeName="CoomuceModel.FuanAfiliado">
         <MappingFragment StoreEntitySet="FuanAfiliado">
+          <ScalarProperty Name="grupofamiliar" ColumnName="grupofamiliar" />
+          <ScalarProperty Name="cabezafamilia" ColumnName="cabezafamilia" />
           <ScalarProperty Name="firmaFuanAfiliado" ColumnName="firmaFuanAfiliado" />
           <ScalarProperty Name="upcFuanAfiliado" ColumnName="upcFuanAfiliado" />
           <ScalarProperty Name="fechaNacimientoConyugueFuanAfiliado" ColumnName="fechaNacimientoConyugueFuanAfiliado" />
